@@ -1,5 +1,5 @@
 # REQUIRED: the domain that the deployment will be visible to the user.
-system_domain: ${MINIKUBE_IP}.xip.io
+system_domain: 192.168.39.250.xip.io
 
 # Set or override job properties. The first level of the map is the instance group name. The second
 # level of the map is the job name. E.g.:
